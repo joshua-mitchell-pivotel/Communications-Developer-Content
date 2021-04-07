@@ -1,9 +1,0 @@
-{
-  "ok": false,
-  "err": [
-    {
-      "code": -2000,
-      "msg": "Document code has been locked."
-    }
-  ]
-}

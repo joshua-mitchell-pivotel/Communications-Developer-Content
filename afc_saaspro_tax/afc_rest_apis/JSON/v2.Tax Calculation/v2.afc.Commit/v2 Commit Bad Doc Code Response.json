@@ -1,9 +1,0 @@
-{
-  "ok": false,
-  "err": [
-    {
-      "code": -2000,
-      "msg": "No transactions found for document code."
-    }
-  ]
-}
